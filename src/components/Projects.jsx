@@ -114,7 +114,7 @@ const allProjectsData = [
     technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'OpenStreetMap API'],
     date: 'May 2024',
     github: 'https://github.com/ShahHetanshi/Travel-and-Tour-Website',
-    website: null,
+    website: 'https://travel-and-tour-website-gules.vercel.app/index1.html',
     category: 'Web Design, Web Development',
     icon: <Plane className="h-6 w-6 text-primary" />,
     imageDescription: "Collage of travel destinations with a map overlay and planning icons",
